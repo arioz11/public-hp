@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#1c1c1c" stroke-width="1.4" stroke-linejoin="round">
+  <!-- PLACEHOLDER: pentagram / numerology diagram（数字はHTML側で重ねる） -->
+  <!-- pentagon vertices -->
+  <g>
+    <polygon points="50,18 79,39 68,73 32,73 21,39" stroke="#1c1c1c"/>
+    <!-- inner star -->
+    <polygon points="50,18 68,73 21,39 79,39 32,73" stroke="#c0982f" stroke-width="1"/>
+  </g>
+  <g fill="#faf6ec">
+    <circle cx="50" cy="18" r="7"/>
+    <circle cx="79" cy="39" r="7"/>
+    <circle cx="68" cy="73" r="7"/>
+    <circle cx="32" cy="73" r="7"/>
+    <circle cx="21" cy="39" r="7"/>
+  </g>
+</svg>

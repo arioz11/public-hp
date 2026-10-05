@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#1c1c1c" stroke-width="1.4">
+  <!-- PLACEHOLDER: geodetic astrology（地球＋経緯線＋星）本番SVGに差し替え予定 -->
+  <circle cx="50" cy="50" r="32"/>
+  <!-- 緯線 -->
+  <g stroke-width="1">
+    <line x1="20" y1="40" x2="80" y2="40"/>
+    <line x1="18" y1="50" x2="82" y2="50"/>
+    <line x1="20" y1="60" x2="80" y2="60"/>
+    <!-- 経線 -->
+    <ellipse cx="50" cy="50" rx="12" ry="32"/>
+    <ellipse cx="50" cy="50" rx="24" ry="32"/>
+  </g>
+  <!-- 星 -->
+  <g stroke="#c0982f" stroke-width="1.2" stroke-linecap="round">
+    <line x1="78" y1="20" x2="78" y2="30"/>
+    <line x1="73" y1="25" x2="83" y2="25"/>
+  </g>
+</svg>

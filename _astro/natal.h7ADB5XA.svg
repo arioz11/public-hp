@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#1c1c1c" stroke-width="1.4">
+  <!-- PLACEHOLDER: natal chart wheel（本番トレースSVGに差し替え予定） -->
+  <circle cx="50" cy="50" r="34"/>
+  <circle cx="50" cy="50" r="26"/>
+  <circle cx="50" cy="50" r="9"/>
+  <g stroke-width="1">
+    <!-- 12 segment dividers -->
+    <line x1="50" y1="16" x2="50" y2="84"/>
+    <line x1="16" y1="50" x2="84" y2="50"/>
+    <line x1="26" y1="26" x2="74" y2="74"/>
+    <line x1="74" y1="26" x2="26" y2="74"/>
+    <line x1="33" y1="20" x2="67" y2="80"/>
+    <line x1="67" y1="20" x2="33" y2="80"/>
+    <line x1="20" y1="33" x2="80" y2="67"/>
+    <line x1="80" y1="33" x2="20" y2="67"/>
+  </g>
+  <g stroke="#c0982f" stroke-width="1">
+    <line x1="41" y1="46" x2="59" y2="54"/>
+    <line x1="59" y1="46" x2="41" y2="54"/>
+  </g>
+</svg>
